@@ -44,7 +44,7 @@ Yes 4 pts: Programs implement interfaces and compile without errors or warnings
 
 Yes 2 pts: Executes fully & consistently without crashing (exception/freeze)
 
-_____ 2 pt: Complies with style guidelines (missing items 1 pt each):
+Yes 2 pt: Complies with style guidelines (missing items 1 pt each):
 
       _____ Classes & class members all have Javadoc header comments
 
@@ -58,4 +58,4 @@ _____ 2 pt: Complies with style guidelines (missing items 1 pt each):
 
 Yes 1 pt: All required files included with submission (including completed `rubric.md` file)
 
-_____ 1 pt: `reflection.md` contains your reflection on the assignment
+Yes 1 pt: `reflection.md` contains your reflection on the assignment
