@@ -1,5 +1,5 @@
 
-public class Engine {
+public class Engine implements EngineRequirements{
 
     private FuelType FuelType1; //uses FuelType class and defines attribute FuelType1
     private double CurrentFuel; //defines a current fuel value

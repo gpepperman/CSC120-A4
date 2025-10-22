@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Train {
+public class Train implements TrainRequirements{ 
 
     private Engine engine; //engine form Engine class
     private ArrayList<Car> car; //list of cars from Car class
